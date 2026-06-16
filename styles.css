@@ -394,7 +394,7 @@ h1 {
 
 @media (prefers-reduced-motion: reduce) {
   html {
-    scroll-behaviour: auto;
+    scroll-behavior: auto;
   }
 
   *,
